@@ -3,3 +3,6 @@ aiofiles
 numpy
 pandas
 scipy
+isort
+black
+pokebase
